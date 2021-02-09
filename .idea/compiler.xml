@@ -9,5 +9,8 @@
         <module name="apache-camel-example" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apache-camel-example" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
